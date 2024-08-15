@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|c:\\workspace\\kaiq\\pwa\\testing-pwa\\testing-pwa\\controllers\\pwatestingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|solutionrelative:testing-pwa\\controllers\\pwatestingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|c:\\workspace\\kaiq\\pwa\\testing-pwa\\testing-pwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|solutionrelative:testing-pwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|c:\\workspace\\kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|solutionrelative:testing-pwa\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|c:\\workspace\\kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\imagesender.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{175FF58B-B8A0-4819-8483-602ED0222DE3}|testing-pwa\\testing-pwa.csproj|solutionrelative:testing-pwa\\wwwroot\\imagesender.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "testing-pwa\\wwwroot\\index.html",
+              "ToolTip": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\index.html",
+              "RelativeToolTip": "testing-pwa\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-15T13:43:49.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "imageSender.js",
+              "DocumentMoniker": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\imageSender.js",
+              "RelativeDocumentMoniker": "testing-pwa\\wwwroot\\imageSender.js",
+              "ToolTip": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\imageSender.js",
+              "RelativeToolTip": "testing-pwa\\wwwroot\\imageSender.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-14T18:53:14.842Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\Program.cs",
+              "RelativeDocumentMoniker": "testing-pwa\\Program.cs",
+              "ToolTip": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\Program.cs",
+              "RelativeToolTip": "testing-pwa\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:59:56.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PwaTestingController.cs",
+              "DocumentMoniker": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\Controllers\\PwaTestingController.cs",
+              "RelativeDocumentMoniker": "testing-pwa\\Controllers\\PwaTestingController.cs",
+              "ToolTip": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\Controllers\\PwaTestingController.cs",
+              "RelativeToolTip": "testing-pwa\\Controllers\\PwaTestingController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:53:14.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

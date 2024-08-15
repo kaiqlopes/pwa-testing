@@ -1,0 +1,20 @@
+label {
+    display: block;
+    margin-top: 1rem;
+}
+
+input {
+    margin-bottom: 1rem;
+}
+
+#uploadForm {
+    border: 2px solid red;
+    border-radius: 2px;
+    padding: 1rem;
+}
+
+#networkInformation {
+    border: 2px solid lightgreen;
+    border-radius: 2px;
+    padding: 1rem;
+}

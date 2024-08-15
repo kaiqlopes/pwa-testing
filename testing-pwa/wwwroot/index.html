@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/images/icon512.png" />
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="manifest" href="/manifest.json">
+
+    <title>PWA Testing</title>
+</head>
+
+<body>
+    <form id="uploadForm">
+        <label for="imageInput">Imagem from galery:</label>
+        <input type="file" id="imageInput" accept="image/*">
+        <button type="submit">Send Image</button>
+
+        <br><br>
+
+        <label for="backCameraImageInput">Imagem from back camera:</label>
+        <input type="file" id="backCameraImageInput" name="backCameraImageInput" accept="image/*"
+            capture="environment" />
+        <button type="submit">Send Image</button>
+    </form>
+
+    <hr>
+
+    <form id="networkInformation">
+        <label for="submitNetworkInfo">Network Information:</label>
+        <button type="submit" id = "submitNetworkInfo">Send network information</button>
+    </form>
+
+    <script src="getNetworkInformation.js"></script>
+    <script src="imageSender.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/serviceWorker.js', { scope: '/' });
+        }
+    </script>
+</body>
+
+</html>
