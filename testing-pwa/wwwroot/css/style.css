@@ -18,3 +18,9 @@ input {
     border-radius: 2px;
     padding: 1rem;
 }
+
+#speechToText {
+    border: 2px solid lightblue;
+    border-radius: 2px;
+    padding: 1rem;
+}

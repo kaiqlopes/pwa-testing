@@ -32,6 +32,16 @@
         <button type="submit" id = "submitNetworkInfo">Send network information</button>
     </form>
 
+    <hr>
+
+    <form id="speechToText">
+        <label for="voiceToText">Speech to text:</label>
+        <button type="submit" id="submitRecognition" name="submitRecognition">Tap and speak</button>
+        <br>
+        <output id="voiceToTextResult">Waiting for audio input...</label>
+    </form>
+
+    <script src="networkUpdateWatcher.js"></script>
     <script src="getNetworkInformation.js"></script>
     <script src="imageSender.js"></script>
     <script>

@@ -7,6 +7,8 @@ self.addEventListener('install', event => {
     cache.addAll([
       '/',
       '/imageSender.js',
+      '/getNetworkInformation.js',
+      '/networkUpdateWatcher.js',
       '/images',
       '/css/style.css'
     ]);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testing-pwa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd3bb6ecb4e6c37651c6fbe1e272e123be0a239c")]
 [assembly: System.Reflection.AssemblyProductAttribute("testing-pwa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testing-pwa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

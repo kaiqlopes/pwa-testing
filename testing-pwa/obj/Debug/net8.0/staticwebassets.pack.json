@@ -13,72 +13,16 @@
       "PackagePath": "staticwebassets\\imageSender.js"
     },
     {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\17237424939161014627957143024314.jpg",
-      "PackagePath": "staticwebassets\\images\\17237424939161014627957143024314.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\172374272705290802353503258317.jpg",
-      "PackagePath": "staticwebassets\\images\\172374272705290802353503258317.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\17237430983189089249492131214219.jpg",
-      "PackagePath": "staticwebassets\\images\\17237430983189089249492131214219.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\17237440971756341202388627593637.jpg",
-      "PackagePath": "staticwebassets\\images\\17237440971756341202388627593637.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\17237454989442315370618721529516.jpg",
-      "PackagePath": "staticwebassets\\images\\17237454989442315370618721529516.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\1723745579543688628983228042534.jpg",
-      "PackagePath": "staticwebassets\\images\\1723745579543688628983228042534.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\20240617_175337.jpg",
-      "PackagePath": "staticwebassets\\images\\20240617_175337.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\20240630_110640.jpg",
-      "PackagePath": "staticwebassets\\images\\20240630_110640.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\20240723_120230.jpg",
-      "PackagePath": "staticwebassets\\images\\20240723_120230.jpg"
+      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\172381369589142862438575567851.jpg",
+      "PackagePath": "staticwebassets\\images\\172381369589142862438575567851.jpg"
     },
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\20240731_183517.jpg",
       "PackagePath": "staticwebassets\\images\\20240731_183517.jpg"
     },
     {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\20240813_082808.jpg",
-      "PackagePath": "staticwebassets\\images\\20240813_082808.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\Captura de tela 2024-08-15 095658.png",
-      "PackagePath": "staticwebassets\\images\\Captura de tela 2024-08-15 095658.png"
-    },
-    {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\icon512.png",
       "PackagePath": "staticwebassets\\images\\icon512.png"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\imagemteste1jpg.png",
-      "PackagePath": "staticwebassets\\images\\imagemteste1jpg.png"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\imagemteste2jpg.png",
-      "PackagePath": "staticwebassets\\images\\imagemteste2jpg.png"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\imagemteste3jpg.png",
-      "PackagePath": "staticwebassets\\images\\imagemteste3jpg.png"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\imagemteste4.png",
-      "PackagePath": "staticwebassets\\images\\imagemteste4.png"
     },
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\index.html",
@@ -87,6 +31,10 @@
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\networkUpdateWatcher.js",
+      "PackagePath": "staticwebassets\\networkUpdateWatcher.js"
     },
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\serviceWorker.js",
