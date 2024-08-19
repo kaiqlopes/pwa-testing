@@ -1,5 +1,7 @@
 const networkUpdateUri = 'https://localhost:7174/PwaTesting/NetworkUpdate';
 
+console.log('Caiu no networkUpdateWatcher.js'); 
+
 let effectiveType = navigator.connection.effectiveType;
 let type = navigator.connection.type;
 

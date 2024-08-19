@@ -9,6 +9,7 @@ self.addEventListener('install', event => {
       '/imageSender.js',
       '/getNetworkInformation.js',
       '/networkUpdateWatcher.js',
+      '/speechToText.js',
       '/images',
       '/css/style.css'
     ]);

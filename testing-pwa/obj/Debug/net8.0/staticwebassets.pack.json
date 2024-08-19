@@ -5,20 +5,16 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\demo.js",
+      "PackagePath": "staticwebassets\\demo.js"
+    },
+    {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\getNetworkInformation.js",
       "PackagePath": "staticwebassets\\getNetworkInformation.js"
     },
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\imageSender.js",
       "PackagePath": "staticwebassets\\imageSender.js"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\172381369589142862438575567851.jpg",
-      "PackagePath": "staticwebassets\\images\\172381369589142862438575567851.jpg"
-    },
-    {
-      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\20240731_183517.jpg",
-      "PackagePath": "staticwebassets\\images\\20240731_183517.jpg"
     },
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\images\\icon512.png",
@@ -39,6 +35,18 @@
     {
       "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\serviceWorker.js",
       "PackagePath": "staticwebassets\\serviceWorker.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\speechToText.js",
+      "PackagePath": "staticwebassets\\speechToText.js"
+    },
+    {
+      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\voice-elements\\voice-elements.html",
+      "PackagePath": "staticwebassets\\voice-elements\\voice-elements.html"
+    },
+    {
+      "Id": "C:\\Workspace\\Kaiq\\pwa\\testing-pwa\\testing-pwa\\wwwroot\\voice-elements\\webcomponents-lite.min.js",
+      "PackagePath": "staticwebassets\\voice-elements\\webcomponents-lite.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.testing-pwa.props",

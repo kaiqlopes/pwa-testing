@@ -15,6 +15,10 @@ document.getElementById('uploadForm').addEventListener('submit', function (event
 	} else {
 		console.error('No file selected.');
 	}
+
+	document.getElementById('imageInput').value = '';
+	document.getElementById('backCameraImageInput').value = '';
+	document.getElementById('uploadForm').reset();
 });
 
 // Função para enviar a imagem

@@ -36,9 +36,11 @@
 
     <form id="speechToText">
         <label for="voiceToText">Speech to text:</label>
-        <button type="submit" id="submitRecognition" name="submitRecognition">Tap and speak</button>
+        <button id="startRecognition" name="submitRecognition">Tap and speak</button>
         <br>
-        <output id="voiceToTextResult">Waiting for audio input...</label>
+        <button id="stopRecognition">Stop recognition</button>
+        <textarea id="transcription" rows="6"></textarea>
+
     </form>
 
     <script src="networkUpdateWatcher.js"></script>
@@ -49,6 +51,7 @@
             navigator.serviceWorker.register('/serviceWorker.js', { scope: '/' });
         }
     </script>
+    <script src="speechToText.js"></script>
 </body>
 
 </html>
